@@ -8,6 +8,7 @@ Sebelum memulai menggunakan sistem ini, mhon perhatikan beberapa hal
 2. Pastikan sudah menaruh file ini di htdocs
 3. Hidupkan xampp/lampp dan sejenisnya
 4. Tidak perlu menggunakan "php artisan serve", silahkan langsung panggil di url dengan menggunakan "localhost/nama_folder"
-5. Hak cipta milik deyan, template dari Admi SB
+5. Hak cipta milik deyan, template dari Admin SB
+6. Hapus kata "-example" pada file vendor dan env
 
 
